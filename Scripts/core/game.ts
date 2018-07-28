@@ -13,7 +13,7 @@
         {id: "NextButton", src:"/Assets/images/NextButton.png"},
         {id: "BackButton", src:"/Assets/images/BackButton.png"},
         {id: "plane", src:"/Assets/images/plane.png"},
-        {id: "ocean", src:"/Assets/images/ocean.gif"},
+        {id: "space", src:"/Assets/images/space.jpg"},
         {id: "island", src:"/Assets/images/island.png"},
         {id: "cloud", src:"/Assets/images/cloud.png"},
         {id: "yay", src:"/Assets/audio/yay.ogg"},
